@@ -12,6 +12,8 @@ en la generación de una estructura discretizada y simplificada en forma de graf
 - [X] **Adaptive_thresholding.ipynb**: Contiene el algoritmo para binarización de las imágenes haciendo uso de una binarización adaptativa.
 - [X] **binarization_LoC.ipynb**: Contiene el algoritmo para binarización que hace uso de Laplacian of Gaussians.
 - [X] **loc_images**: Imágenes de los vasos binarizados por el algoritmo que hace uso de Laplacian of Gaussians.
+- [X] **adaptative_res**: Carpeta que contiene las imágenes de la binarización de vasos sanguíneos usando adaptative thresholding.
+- [X] **datasets_binarization**: Contiene los datasets de los resultados de las métricas obtenidos para cada algoritmo implementado. 
 
 ### Segunda parte del proyecto
 
